@@ -1,2 +1,2 @@
-# LightApp
-Simple screen changing light app
+# DeathNoteApp
+App with list and possibility to add new items in it. A tribute to the famous anime
